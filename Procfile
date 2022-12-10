@@ -1,2 +1,2 @@
-wev: gunicorn app:app --log-file=-
+wev: gunicorn app:app
 Flask
